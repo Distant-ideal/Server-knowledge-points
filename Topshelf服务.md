@@ -2,7 +2,7 @@
 
 ## 什么是Topshelf
 
-Topshelf是创建windows服务的另一种方法，Topshelf是一个开源的跨平台的宿主服务框架，支持windows和mono，值需要引用Topshelf组件库，再加上几行代码就可以构件一个很方便使用的服务宿主
+Topshelf是创建windows服务的另一种方法，Topshelf是一个开源的跨平台的宿主服务框架，支持windows和mono，只需要引用Topshelf组件库，再加上几行代码就可以构件一个很方便使用的服务宿主
 
 ## Topshelf的好处
 
